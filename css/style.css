@@ -1,0 +1,59 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    width: 1000px;
+    height: 78px; 
+
+}
+
+ body{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+    border: 0px;
+    width: 90.5%;
+}
+
+.box {
+    text-align: center;
+    width: 30%;
+    float: left;
+    height: 100%;
+    margin: 1px;
+    
+}
+ /* arka plan renkleri */
+
+.bg-aqua-light {
+  
+    background-color: #70CCC2;
+
+}
+.bg-aqua{
+    background-color: rgb(126, 229, 218);
+}
+
+.bg-aqua-dark{
+    background: #62B3AA;
+}
+
+.bg-gray{
+    background-color:#EEEEEE;
+}
+
+ /* yazı tipi boyutu*/
+.fontsize{
+    font-size: smaller;
+}
+
+.clear{
+    clear: both;
+}
+
+.googleinc{
+    text-align: center;
+}
